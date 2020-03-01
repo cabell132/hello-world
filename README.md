@@ -5,4 +5,4 @@ Initialise this repository with a README
 
 name = input("Insert Name Here: ")
 
-print("Hello {}".format(name.capitalize())
+print("Hello {}".format(name.capitalize()))
